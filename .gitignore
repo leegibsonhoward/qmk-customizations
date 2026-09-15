@@ -1,0 +1,4 @@
+# QMK build artifacts
+*.bin
+*.hex
+*.uf2
